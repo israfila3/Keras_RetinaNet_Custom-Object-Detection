@@ -1,4 +1,4 @@
-# Keras_RetinaNet_Custom-Object-Detection
+# Keras-RetinaNet Custom Object Detection
 
 ## Installation process of keras-Retinanet
 * Download the Keras-Retinanet source from https://github.com/fizyr/keras-retinanet
